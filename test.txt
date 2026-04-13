@@ -1,4 +1,5 @@
 pagina
 empleado crea comentarios
 crear local
-crud
+crud eventos
+crud admin
